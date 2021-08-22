@@ -1,0 +1,22 @@
+.button {
+    width: 25%;
+    display: inline-flex;
+    flex: 1 0 auto;
+}
+
+.button.wide {
+    width: 50%;
+}
+
+.button button {
+    background-color: #e0dada;
+    font-size: 4rem;
+    border: 1px;
+    flex: 1 0 auto;
+    margin: 1px;
+}
+
+.Operator button {
+    background-color: #f8910a;
+    color: #ffffff;
+}

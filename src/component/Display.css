@@ -1,0 +1,10 @@
+.display {
+    color: #ffffff;
+    background-color: #9a9aa1;
+    text-align: right;
+    font-weight: 300;
+    flex: 0 0 auto;
+    width: 100%;
+    font-size: 4rem;
+    padding: 0.2rem 0.2rem 0.2rem 0.2rem;
+}
